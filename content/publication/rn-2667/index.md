@@ -1,0 +1,64 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Lower muscle stiffness assessed with supersonic shear imaging is associated
+  with more severe muscle impairments in patients with sporadic inclusion body myositis
+subtitle: ''
+summary: ''
+authors:
+- D. Bachasson
+- G. Dubois
+- O. Benveniste
+- J. Hogrel
+tags: []
+categories: []
+date: Year-01-01
+lastmod: 2020-12-20T14:59:04+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-12-20T13:59:04.504745Z'
+publication_types:
+- '1'
+abstract: Supersonic shear imaging (SSI) is a recently developed technique for noninvasive
+  assessment of tissue stiffness. In muscle, mechanical properties may be affected
+  by multiscale structural alterations induced by disease processes. However, muscle
+  SSI data in patients with neuromuscular disorders are particularly scarce. In this
+  pilot study, we aimed to evaluate potential relationship between the severity of
+  muscle weakness and passive muscle stiffness in patients with inclusion body myositis
+  (IBM). Twenty-three patients (61% men, age = 65.7 ± 8.9 years; BMI = 25.0 ± 3.9
+  kg·m−2; inclusion body myositis weakness composite index = 62.5 ± 23.5) volunteered
+  to participate in this study. Muscle shear modulus was assessed in the short head
+  of the right biceps brachii with the elbow flexed at 80, 90, 110 and 170°. SSI was
+  performed with an Aixplorer coupled with a SL 15-4 probe (Supersonic Imagine, Aix-en–Provence,
+  France). Shear modulus measurements were measured before and after a conditioning
+  of 5 cycles at 4°/s. Elbow flexion maximal voluntary isometric strength was assessed
+  at 90° using an isokinetic dynamometer and expressed as percentage of predicted
+  values. Shear modulus was 6.5 ± 1.1, 7.2 ± 1.4, 8.3 ± 1.8, and 20.6 ± 6.6 kPa at
+  80, 90, 110 and 170°, respectively. Muscle shear modulus was significantly increased
+  at all angles (all P < 0.05) and no significant effect of conditioning was found
+  (P = 0.51). Elbow flexion strength was 26.0 ± 12.9 Nm i.e. 50.4 ± 21.1% of predicted
+  values. Shear modulus was linearly related to elbow flexion strength at all tested
+  angles (R = 0.59; R = 0.77; R = 0.76; R = 0.56 at 80, 90, 110 and 170°, respectively;
+  all P < 0.001). In conclusion, lower passive muscle stiffness assessed by SSI was
+  associated with more severe muscle weakness in patients with IBM. Further investigations
+  including the quantification of muscle degenerating processes (e.g. fibrosis, fatty
+  infiltration) are required to clarify mechanisms underlying these findings.
+publication: '*Neuromuscular Disorders*'
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0960896616303467
+doi: 10.1016/j.nmd.2016.06.053
+---

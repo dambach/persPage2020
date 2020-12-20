@@ -1,38 +1,47 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Damien Bachasson
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PT, PhD, Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Institute of Myology | Paris, France
+  url: http://www.institut-myologie.org/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: science, muscle, physiology, exercise, diaphragm, rehabilitation, bioengineering enthusiast.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Skeletal muscle 
+- Exercise
+- Neuromuscular disorders
+- Muscle impairments
+- Bioengineering
+- Diaphragm
+- Neuromuscular fatigue
+- Rehabilitation 
+- Data science
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Postdoctoral training in Muscle Physiology
+    institution: UCSD
+    year: 2015
+  - course: PhD in Exercise Physiology
+    institution: Grenoble-Alpes University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Exercise Physiology
+    institution: Grenoble-Alpes University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Master in Physical Therapy
+    institution: HEPLAV, Liège, Belgium
     year: 2008
 
 # Social/Academic Networking
@@ -42,26 +51,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:d.bachason@institut-myologie.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/bachassD
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=DNt--nsAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dambach
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/damienbachasson/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/Damien Bachasson_CV_EN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +79,18 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Welcome !**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am Damien Bachasson and you reached my personal webpage. I am using it to share my research, tools I developed and other resources.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Feel free to contact me for more information regarding any of my interests.
+
+Damien
+
+## Short bio
+
+I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, exercise physiology, bioengineering, and rehabilitation sciences. 
+ 
+Methodological and technological developments for the characterization of neuromuscular structure and function are an important part of my work. I have also interests in data science, reproducible research, and teaching. 
+ 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Damien-Bachasson_CV_EN.pdf" "newtab" >}}resumé{{< /staticref >}}.

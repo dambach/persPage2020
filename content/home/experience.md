@@ -1,6 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: experience
 
 # This file represents a page section.
@@ -22,24 +23,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Research project leader
+    company: Institute of Myology
+    company_url: 'https://www.institut-myologie.org/en/'
+    location: Paris, FR
+    date_start: '2019-06-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: ''
+    # |2-
+    #     Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research scientist
+    company: Institute of Myology
+    company_url: 'https://www.institut-myologie.org/en/'
+    location: Paris, FR
+    date_start: "2015-05-01"
+    date_end: '2019-05-30'
+    description: ''
+
+  - title: Postdoctoral researcher
+    company: Muscle Physiology Laboratory, Departments of Orthopaedic Surgery, Bioengineering and the Biomedical Sciences Group at the University of California San Diego
+    company_url: 'http://muscle.ucsd.edu/'
+    location: La Jolla, USA
+    date_start: "2014-01-01"
+    date_end: '2015-05-01'
+    description: ''    
+
+  - title: Postdoctoral researcher
+    company: Hypoxia Pathophysiology Laboratory, INSERM U1042, Grenoble-Alpes University
+    company_url: 'https://hp2.univ-grenoble-alpes.fr/'
+    location: Grenoble, FR
+    date_start: "2014-01-01"
+    date_end: '2014-12-31'
+    description: ''       
+
+  - title: PhD candidate
+    company: Hypoxia Pathophysiology Laboratory, INSERM U1042, Grenoble-Alpes University
+    company_url: 'https://hp2.univ-grenoble-alpes.fr/'
+    location: Grenoble, FR
+    date_start: "2009-11-01"
+    date_end: '2012-12-31'
+    description: ''
 ---
