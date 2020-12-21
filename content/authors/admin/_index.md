@@ -81,7 +81,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am Damien Bachasson and you reached my personal webpage. I am using it to share my research, tools I developed and other resources.
+You reached my personal webpage. I am using it to share my research, tools I developed and other resources.
 
 Feel free to contact me for more information regarding any of my interests.
 
