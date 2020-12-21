@@ -81,9 +81,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-**Welcome !**
-
 I am Damien Bachasson and you reached my personal webpage. I am using it to share my research, tools I developed and other resources.
 
 Feel free to contact me for more information regarding any of my interests.
@@ -95,5 +92,9 @@ Damien
 I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, exercise physiology, bioengineering, and rehabilitation sciences. 
  
 Methodological and technological developments for the characterization of neuromuscular structure and function are an important part of my work. I have also interests in data science, reproducible research, and teaching. 
- 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Damien-Bachasson_CV_EN.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="pen-fancy" pack="fas" >}} See [extended bio]({{< ref "extendedBio/index.md" >}}).
+
+{{< icon name="building" pack="fas" >}} See [experience]({{< ref "experience/index.md" >}}).
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Damien-Bachasson_CV_EN.pdf" "newtab" >}}full CV{{< /staticref >}}.
