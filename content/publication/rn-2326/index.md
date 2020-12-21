@@ -15,8 +15,8 @@ authors:
 - S. Verges
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2020-12-20T14:59:23+01:00
+date: '2014-01-01'
+lastmod: 2020-12-21T19:00:37+01:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:22.965361Z'
+publishDate: '2020-12-21T18:00:37.378996Z'
 publication_types:
 - '2'
 abstract: "INTRODUCTION: Positive end-expiratory pressure (PEEP) is commonly used\

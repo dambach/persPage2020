@@ -15,8 +15,8 @@ authors:
 - P. Levy
 tags: []
 categories: []
-date: '2012-01-01'
-lastmod: 2020-12-20T14:59:22+01:00
+date: '2012-12-05'
+lastmod: 2020-12-21T19:00:37+01:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:22.473676Z'
+publishDate: '2020-12-21T18:00:36.930132Z'
 publication_types:
 - '2'
 abstract: 'Neuromuscular function can change under different conditions such as ageing,

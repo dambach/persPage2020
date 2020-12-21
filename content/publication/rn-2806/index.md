@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2020-12-20T14:59:06+01:00
+lastmod: 2020-12-21T19:00:24+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:06.150327Z'
+publishDate: '2020-12-21T18:00:23.660023Z'
 publication_types:
 - '0'
 abstract: 'Method for measuring diaphragmatic functional parameters, comprising: •

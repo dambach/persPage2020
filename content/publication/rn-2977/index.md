@@ -13,8 +13,8 @@ authors:
 - Samuel Verges
 tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2020-12-20T14:59:02+01:00
+date: '2016-06-10'
+lastmod: 2020-12-21T19:00:20+01:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:02.564950Z'
+publishDate: '2020-12-21T18:00:20.191559Z'
 publication_types:
 - '2'
 abstract: This study aimed to compare quadriceps function (i.e. strength, endurance,

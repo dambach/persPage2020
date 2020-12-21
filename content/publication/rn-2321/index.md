@@ -12,8 +12,8 @@ authors:
 - J. Y. Hogrel
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2020-12-20T14:59:17+01:00
+date: '2018-02-13'
+lastmod: 2020-12-21T19:00:32+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:17.366334Z'
+publishDate: '2020-12-21T18:00:32.148453Z'
 publication_types:
 - '2'
 abstract: This study introduces local pattern texture anisotropy as a novel parameter

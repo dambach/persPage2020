@@ -17,8 +17,8 @@ authors:
 - Martin Dres
 tags: []
 categories: []
-date: Year-01-01
-lastmod: 2020-12-20T14:59:18+01:00
+date: '2020-01-01'
+lastmod: 2020-12-21T19:00:33+01:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:18.326768Z'
+publishDate: '2020-12-21T18:00:33.025087Z'
 publication_types:
 - '1'
 abstract: 'Introduction: Mechanical ventilation is a life-saving treatment that is

@@ -12,8 +12,8 @@ authors:
 - J. Hogrel
 tags: []
 categories: []
-date: Year-01-01
-lastmod: 2020-12-20T14:59:04+01:00
+date: '2016-01-01'
+lastmod: 2020-12-21T19:00:22+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:04.504745Z'
+publishDate: '2020-12-21T18:00:22.079537Z'
 publication_types:
 - '1'
 abstract: Supersonic shear imaging (SSI) is a recently developed technique for noninvasive

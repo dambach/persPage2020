@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Muscle alterations in sporadic inclusion body myositis assessed using quantitative nuclear magnetic resonance imaging and spectroscopy, ultrasound shear-wave elastography,
+title: Muscle alterations in sporadic inclusion body myositis assessed using quantitative
+  nuclear magnetic resonance imaging and spectroscopy, ultrasound shear-wave elastography,
   and relationships with muscle function
 subtitle: ''
 summary: ''
@@ -9,13 +10,13 @@ authors:
 - D. Bachasson
 - H. Reyngoudt
 - S. Turk
-- O. Benveniste
+- .. Benveniste
 - J. Hogrel
 - P. Carlier
 tags: []
 categories: []
-date: Year-01-01
-lastmod: 2020-12-20T14:59:09+01:00
+date: '2017-06-01'
+lastmod: 2020-12-21T19:00:26+01:00
 featured: false
 draft: false
 
@@ -33,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:09.029670Z'
+publishDate: '2020-12-21T18:00:26.032815Z'
 publication_types:
 - '1'
 abstract: ''

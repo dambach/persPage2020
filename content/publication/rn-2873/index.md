@@ -14,8 +14,8 @@ authors:
 - P. Portero
 tags: []
 categories: []
-date: Year-01-01
-lastmod: 2020-12-20T14:59:16+01:00
+date: '2020-01-01'
+lastmod: 2020-12-21T19:00:31+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:15.908235Z'
+publishDate: '2020-12-21T18:00:30.699909Z'
 publication_types:
 - '1'
 abstract: ''

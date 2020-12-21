@@ -18,8 +18,8 @@ authors:
 - Y. Allenbach
 tags: []
 categories: []
-date: Year-01-01
-lastmod: 2020-12-20T14:59:21+01:00
+date: '2018-01-01'
+lastmod: 2020-12-21T19:00:35+01:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:20.645565Z'
+publishDate: '2020-12-21T18:00:35.476552Z'
 publication_types:
 - '1'
 abstract: 'Background/Purpose: Wrist-worn accelerometers allow the objective estimation

@@ -15,8 +15,8 @@ authors:
 - S. Verges
 tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2020-12-20T14:59:12+01:00
+date: '2015-12-09'
+lastmod: 2020-12-21T19:00:28+01:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:11.841111Z'
+publishDate: '2020-12-21T18:00:27.902398Z'
 publication_types:
 - '2'
 abstract: Transcranial magnetic stimulation (TMS) of the motor cortex during voluntary

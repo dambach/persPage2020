@@ -22,8 +22,8 @@ authors:
 - J. Y. Hogrel
 tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2020-12-20T14:59:08+01:00
+date: '2016-05-29'
+lastmod: 2020-12-21T19:00:25+01:00
 featured: false
 draft: false
 
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:07.784998Z'
+publishDate: '2020-12-21T18:00:25.019591Z'
 publication_types:
 - '2'
 abstract: 'This study evaluated gait using lower-trunk accelerometry and investigated

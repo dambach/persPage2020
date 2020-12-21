@@ -14,8 +14,8 @@ authors:
 - S. Verges
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2020-12-20T14:59:06+01:00
+date: '2012-09-12'
+lastmod: 2020-12-21T19:00:23+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:05.602791Z'
+publishDate: '2020-12-21T18:00:23.233329Z'
 publication_types:
 - '2'
 abstract: 'OBJECTIVE: To assess quadriceps strength and fatigability by using femoral

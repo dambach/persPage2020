@@ -13,8 +13,8 @@ authors:
 - Y. Allenbach
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2020-12-20T14:59:07+01:00
+date: '2017-06-02'
+lastmod: 2020-12-21T19:00:24+01:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:06.609135Z'
+publishDate: '2020-12-21T18:00:24.101329Z'
 publication_types:
 - '2'
 abstract: ''

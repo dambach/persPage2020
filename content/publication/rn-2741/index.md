@@ -18,8 +18,8 @@ authors:
 - Y. Allenbach
 tags: []
 categories: []
-date: Year-01-01
-lastmod: 2020-12-20T14:59:22+01:00
+date: '2019-10-01'
+lastmod: 2020-12-21T19:00:36+01:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:21.641900Z'
+publishDate: '2020-12-21T18:00:36.471662Z'
 publication_types:
 - '1'
 abstract: This study aimed to evaluate physical activity (PA) monitoring using wrist-worn

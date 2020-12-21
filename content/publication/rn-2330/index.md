@@ -18,8 +18,8 @@ authors:
 - B. Wuyam
 tags: []
 categories: []
-date: '2014-01-01'
-lastmod: 2020-12-20T14:59:10+01:00
+date: '2013-09-05'
+lastmod: 2020-12-21T19:00:27+01:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:09.945180Z'
+publishDate: '2020-12-21T18:00:27.017401Z'
 publication_types:
 - '2'
 abstract: 'OBJECTIVES: To (i) evaluate the feasibility and the reliability of a test

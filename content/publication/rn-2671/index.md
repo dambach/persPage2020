@@ -16,8 +16,8 @@ authors:
 - S. R. Ward
 tags: []
 categories: []
-date: Year-01-01
-lastmod: 2020-12-20T14:59:19+01:00
+date: '2016-04-12'
+lastmod: 2020-12-21T19:00:34+01:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:19.209406Z'
+publishDate: '2020-12-21T18:00:33.947787Z'
 publication_types:
 - '1'
 abstract: 'Rotator cuff (RC) tendon tears lead to negative structural and functional

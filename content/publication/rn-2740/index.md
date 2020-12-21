@@ -17,8 +17,8 @@ authors:
 - M. Dres
 tags: []
 categories: []
-date: Year-01-01
-lastmod: 2020-12-20T14:59:24+01:00
+date: '2020-02-13'
+lastmod: 2020-12-21T19:00:39+01:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:24.381607Z'
+publishDate: '2020-12-21T18:00:39.093408Z'
 publication_types:
 - '1'
 abstract: ''

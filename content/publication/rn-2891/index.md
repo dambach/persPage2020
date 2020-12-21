@@ -34,8 +34,8 @@ authors:
 - Yves Allenbach
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-12-20T14:59:15+01:00
+date: '2020-10-12'
+lastmod: 2020-12-21T19:00:30+01:00
 featured: false
 draft: false
 
@@ -53,7 +53,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:15.369734Z'
+publishDate: '2020-12-21T18:00:30.253903Z'
 publication_types:
 - '2'
 abstract: BackgroundInclusion body myositis is the most frequent myositis in patients

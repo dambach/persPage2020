@@ -14,8 +14,8 @@ authors:
 - B. Wuyam
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2020-12-20T14:59:17+01:00
+date: '2013-04-06'
+lastmod: 2020-12-21T19:00:32+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:16.920563Z'
+publishDate: '2020-12-21T18:00:31.585156Z'
 publication_types:
 - '2'
 abstract: 'PURPOSE: The potential ergogenic effects of therapeutic inhaled salbutamol

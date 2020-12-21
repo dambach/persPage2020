@@ -10,8 +10,8 @@ authors:
 - B. Wuyam
 tags: []
 categories: []
-date: '2010-01-01'
-lastmod: 2020-12-20T14:59:26+01:00
+date: '2010-08-13'
+lastmod: 2020-12-21T19:00:40+01:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:25.817736Z'
+publishDate: '2020-12-21T18:00:40.539201Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: Greater diaphragm fatigue has been reported after hypoxic versus

@@ -14,8 +14,8 @@ authors:
 - S. Verges
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2020-12-20T14:59:07+01:00
+date: '2012-12-26'
+lastmod: 2020-12-21T19:00:24+01:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-20T13:59:07.281336Z'
+publishDate: '2020-12-21T18:00:24.530896Z'
 publication_types:
 - '2'
 abstract: "We investigated the reliability of a test assessing quadriceps strength,\
