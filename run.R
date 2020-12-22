@@ -1,7 +1,5 @@
 blogdown::serve_site()
-
-
-# servr::daemon_stop(1)
+blogdown::stop_server()
 servr::browse_last()
 
 #academic import --bibtex publications.bib

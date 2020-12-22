@@ -11,7 +11,7 @@ authors:
 - J. Gennisson
 - T. Similowski
 tags: []
-categories: []
+categories: ["8"]
 date: '2020-01-01'
 lastmod: 2020-12-21T19:00:24+01:00
 featured: false
@@ -30,7 +30,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [US]
 publishDate: '2020-12-21T18:00:23.660023Z'
 publication_types:
 - '0'

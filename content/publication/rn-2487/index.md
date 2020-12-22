@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Ultrafast Ultrasound Imaging Grants Alternate Methods for Assessing Diaphragm
+title: Ultrafast Ultrasound Imaging Grants alternate Methods for Assessing Diaphragm
   Function
 subtitle: ''
 summary: ''
@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [US]
 publishDate: '2020-12-21T18:00:20.685317Z'
 publication_types:
 - '1'

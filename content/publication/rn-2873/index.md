@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Free-living physical activity and sedentary behaviour in auto-immune myasthenia
-  gravis: a cross-sectional study'
+title: 'Free-living physical activity and sedentary behaviour in auto-immune myasthenia gravis: a cross-sectional study'
 subtitle: ''
 summary: ''
 authors:
@@ -32,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Exercise]
 publishDate: '2020-12-21T18:00:30.699909Z'
 publication_types:
 - '1'

@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Changes in diaphragm stiffness assessed with ultrasound shear wave elastography
-  reflect changes in transdiaphragmatic pressure
+title: Changes in diaphragm stiffness assessed with ultrasound shear wave elastography reflect changes in transdiaphragmatic pressure
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +32,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [US]
 publishDate: '2020-12-21T18:00:21.554091Z'
 publication_types:
 - '1'
