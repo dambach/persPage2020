@@ -73,7 +73,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/Damien Bachasson_CV_EN.pdf
+  link: media/Damien-Bachasson_CV_EN.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -89,9 +89,7 @@ Damien
 
 ## Short bio
 
-I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, exercise physiology, bioengineering, and rehabilitation sciences. 
- 
-Methodological and technological developments for the characterization of neuromuscular structure and function are an important part of my work. I have also interests in data science, reproducible research, and teaching. 
+I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, exercise physiology, bioengineering, and rehabilitation sciences. Methodological and technological developments for the characterization of neuromuscular structure and function are an important part of my work. I have also interests in data science, reproducible research, and teaching. 
 
 {{< icon name="pen-fancy" pack="fas" >}} See [extended bio]({{< ref "extendedBio/index.md" >}}).
 
