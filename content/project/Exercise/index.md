@@ -29,8 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Muscle activation is one of the most important mechanisms for maintaining muscle mass and function. We study the impact of neuromuscular disorders on daily physical activity according to pathologies and clinical parameters (both physiological & psychological). We use methods for objective quantification of physical activity such as accelerometry coupled with innovative approaches in signal processing.
+Investigating the effect of exercise-based interventions on neuromuscular function.
+Muscle activation is one of the most important mechanisms for maintaining muscle mass and function. We are also studying the impact of neuromuscular disorders on daily physical activity according to pathologies and clinical parameters. We use methods for objective quantification of physical activity such as accelerometry coupled with innovative approaches in signal processing.
 We also conduct prospective studies to evaluate the muscular and extramuscular effects of increased daily physical activity and/or structured exercise programs (strength/endurance) in patients with neuromuscular pathologies.
 
  Current work is carried out in collaboration with the Department of Neuromyology and the Department of Internal Medicine of the APHP-SU.

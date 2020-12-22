@@ -2,6 +2,7 @@
 widget: blank
 headless: false
 ---
+ I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. I am now working at the cross-road between skeletal muscle physiology (in particular the diaphragm and locomotor muscles), exercise physiology, bioengineering, and rehabilitation sciences.  My main research topics are: relationship between skeletal muscle (respiratory (diaphragm) & locomotor muscles) structure and function, skeletal muscle plasticity, neuromuscular fatigue, neuromuscular disorders, secondary muscle impairments induced by chronic disorders (respiratory diseases, critical illness. 
 
 I received a PhD in Exercise Physiology from the [Grenoble-Alpes University ](https://www.univ-grenoble-alpes.fr/english/) in 2012 at the [Hypoxia Pathophysiology Laboratory](https://hp2.univ-grenoble-alpes.fr/?language=en) (INSERM U1042). Previously, I received a MSc in exercise physiology in 2009 and a master's degree in physical therapy in 2008.
 
