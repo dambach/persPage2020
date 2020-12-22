@@ -1,5 +1,5 @@
 ---
-title: Daily physical activity and exercise in neuromuscular disorders and other clinical populations
+title: Exercise and daily physical activity in neuromuscular disorders and other clinical populations
 summary: 
 tags:
 - internal
