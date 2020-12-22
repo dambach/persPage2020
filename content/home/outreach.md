@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Outreach
-subtitle: 'Selected appearance'
+subtitle: 'Selected appearances'
 
 content:
   # Page type to display. E.g. project.
