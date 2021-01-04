@@ -47,5 +47,5 @@
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
   name = "Full CV"
-  url = "media/Damien-Bachasson_CV_EN.pdf"
+  url = "media/Damien_Bachasson_CV_EN.pdf"
   weight = 80
