@@ -40,6 +40,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Neuroscience*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/27094733
+url: https://www.ncbi.nlm.nih.gov/pubmed/27094733
 doi: 10.1016/j.neuroscience.2016.02.018
 ---

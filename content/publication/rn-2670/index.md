@@ -37,6 +37,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Neurology*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/28566549
+url: https://www.ncbi.nlm.nih.gov/pubmed/28566549
 doi: 10.1212/WNL.0000000000004061
 ---

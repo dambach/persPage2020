@@ -47,6 +47,6 @@ abstract: 'Method for measuring diaphragmatic functional parameters, comprising:
   from the occurrence of a movement of the diaphragm associated to said stimulation,
   • d) based on the measurements, determining functional parameters.'
 publication: ''
-url_pdf: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020053428
+url: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020053428
 doi: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020053428
 ---

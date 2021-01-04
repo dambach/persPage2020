@@ -42,6 +42,6 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of Reanimation 2020, the French Intensive Care Society
   International Congress*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/32048060
+url: https://www.ncbi.nlm.nih.gov/pubmed/32048060
 doi: 10.1186/s13613-020-0623-7
 ---

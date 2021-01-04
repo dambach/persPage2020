@@ -37,6 +37,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*World Muscle Society*'
-url_pdf: https://doi.org/10.1016/j.nmd.2018.06.409
+url: https://doi.org/10.1016/j.nmd.2018.06.409
 doi: 10.1016/j.nmd.2018.06.409
 ---

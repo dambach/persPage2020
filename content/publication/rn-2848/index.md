@@ -65,6 +65,6 @@ abstract: 'OBJECTIVE: This study aimed to investigate the relationship between c
   criteria had significant increase in PA. Accelerometer may serve as an objective
   tool to define a clinically relevant real-life outcome.'
 publication: '*Semin Arthritis Rheum*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/32920327
+url: https://www.ncbi.nlm.nih.gov/pubmed/32920327
 doi: 10.1016/j.semarthrit.2020.06.014
 ---

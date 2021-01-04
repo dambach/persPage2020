@@ -59,6 +59,6 @@ abstract: 'BACKGROUND: Greater diaphragm fatigue has been reported after hypoxic
   coupling increased work of breathing and reduced O2 transport as during exercise
   in altitude or in hypoxemic patients.'
 publication: '*Respir Res*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/20701769
+url: https://www.ncbi.nlm.nih.gov/pubmed/20701769
 doi: 10.1186/1465-9921-11-109
 ---

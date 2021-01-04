@@ -63,6 +63,6 @@ abstract: The reference method for the assessment of diaphragm function relies o
   wave elastography reflect changes in transdiaphragmatic pressure, therefore offering
   a new noninvasive method for gauging diaphragm effort.
 publication: '*J Appl Physiol (1985)*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/30730816
+url: https://www.ncbi.nlm.nih.gov/pubmed/30730816
 doi: 10.1152/japplphysiol.01060.2018
 ---

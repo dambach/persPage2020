@@ -63,6 +63,6 @@ abstract: This study aimed to compare quadriceps function (i.e. strength, endura
   typically observed in much older subjects. These data emphasize the need for developing
   normative data for both central and peripheral quadriceps fatigability.
 publication: '*Experimental Biology and Medicine*'
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/1535370216654225 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5027946/pdf/10.1177_1535370216654225.pdf
+url: https://journals.sagepub.com/doi/abs/10.1177/1535370216654225 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5027946/pdf/10.1177_1535370216654225.pdf
 doi: 10.1177/1535370216654225
 ---

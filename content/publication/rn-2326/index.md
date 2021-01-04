@@ -65,6 +65,6 @@ abstract: "INTRODUCTION: Positive end-expiratory pressure (PEEP) is commonly use
   \ could be an attractive non-pharmacological tool to limit blood oxygen desaturation\
   \ and possibly symptoms at altitude."
 publication: '*PLoS One*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/24376872
+url: https://www.ncbi.nlm.nih.gov/pubmed/24376872
 doi: 10.1371/journal.pone.0085219
 ---

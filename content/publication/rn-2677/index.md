@@ -40,6 +40,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*2019 IEEE International Ultrasonics Symposium (IUS)*'
-url_pdf: https://doi.org/10.1109/ULTSYM.2019.8925575
+url: https://doi.org/10.1109/ULTSYM.2019.8925575
 doi: 10.1109/ULTSYM.2019.8925575
 ---

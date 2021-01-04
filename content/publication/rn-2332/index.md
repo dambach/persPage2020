@@ -40,6 +40,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*La Revue de Médecine Interne*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0248866317301637
+url: http://www.sciencedirect.com/science/article/pii/S0248866317301637
 doi: 10.1016/j.revmed.2017.03.070
 ---

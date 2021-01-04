@@ -70,6 +70,6 @@ abstract: 'Background The availability of non-invasive, accessible, and reliable
   and follow-up of lean regional skeletal muscle volume for transversal and longitudinal
   studies.'
 publication: '*Journal of Cachexia, Sarcopenia and Muscle*'
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcsm.12656
+url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcsm.12656
 doi: https://doi.org/10.1002/jcsm.12656
 ---

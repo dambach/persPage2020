@@ -61,6 +61,6 @@ abstract: 'Rotator cuff (RC) tendon tears lead to negative structural and functi
   despite successful anatomical repair. (c) 2016 Orthopaedic Research Society. Published
   by Wiley Periodicals, Inc. J Orthop Res 34:2089-2095, 2016.'
 publication: '*J Orthop Res*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/27061583
+url: https://www.ncbi.nlm.nih.gov/pubmed/27061583
 doi: 10.1002/jor.23256
 ---

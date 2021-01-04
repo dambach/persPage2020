@@ -72,6 +72,6 @@ abstract: 'KEY POINTS: Twitch transdiaphragmatic pressure elicited by cervical m
   up the prospect of both diagnosis and follow-up of diaphragm contractility in clinical
   populations.'
 publication: '*J Physiol*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/32997791
+url: https://www.ncbi.nlm.nih.gov/pubmed/32997791
 doi: 10.1113/JP280457
 ---

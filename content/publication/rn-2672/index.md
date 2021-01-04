@@ -55,6 +55,6 @@ abstract: "We investigated the reliability of a test assessing quadriceps streng
   \ Further studies should be conducted to evaluate its feasibility and reliability\
   \ in patients."
 publication: '*J Electromyogr Kinesiol*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/23265662
+url: https://www.ncbi.nlm.nih.gov/pubmed/23265662
 doi: 10.1016/j.jelekin.2012.11.011
 ---

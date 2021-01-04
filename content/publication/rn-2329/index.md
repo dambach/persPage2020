@@ -39,6 +39,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Revue des Maladies Respiratoires Actualités*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S1877120314705105
+url: http://www.sciencedirect.com/science/article/pii/S1877120314705105
 doi: 10.1016/s1877-1203(14)70510-5
 ---

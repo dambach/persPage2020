@@ -66,6 +66,6 @@ abstract: "BACKGROUND: Previous randomized controlled trials investigating exerc
   \ professional and social activities leads to significant functional benefits without\
   \ compromising muscle tissue."
 publication: '*Medicine (Baltimore)*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/27495097
+url: https://www.ncbi.nlm.nih.gov/pubmed/27495097
 doi: 10.1097/MD.0000000000004497
 ---
