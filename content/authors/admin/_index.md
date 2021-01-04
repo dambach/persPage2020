@@ -19,11 +19,11 @@ bio: science, muscle, physiology, exercise, diaphragm, rehabilitation, bioengine
 # Interests to show in About widget
 interests:
 - Skeletal muscle 
-- Exercise
+- Diaphragm
+- Exercise physiology
 - Neuromuscular disorders
 - Muscle impairments
 - Bioengineering
-- Diaphragm
 - Neuromuscular fatigue
 - Rehabilitation 
 - Data science
@@ -81,11 +81,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-You reached my personal webpage. I am using it to share my research, tools I developed and other resources.
+You reached my personal webpage. I am using it to share my research, tools I developed, and other resources.
 
 Feel free to contact me for more information regarding any of my interests.
 
-Damien
+~ Damien
 
 ## Short bio
 
