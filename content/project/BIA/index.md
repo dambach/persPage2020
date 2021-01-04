@@ -35,3 +35,5 @@ We are developing new approaches based on the study of the electrical properties
 
 Current studies are carried out in collaboration with the NMR laboratory of the Institute of Myology, the Department of Neuromyology, and the Department of Internal Medicine of the APHP-SU.
 
+See related works below.
+

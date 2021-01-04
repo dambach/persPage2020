@@ -38,3 +38,5 @@ We are developing new approaches based on multiparametric ultrasound for the cha
 Within this topic, the RESPIMYO project focuses on the application of multiparametric ultrasound in the diaphragm to propose specific and non-invasive alternatives for the evaluation of diaphragmatic dysfunction associated with neuromuscular disorders, respiratory diseases, and those induced by mechanical ventilation in the intensive care unit. 
 
 Current research is carried out in collaboration with the BIOMAPS laboratory (Université Paris-Sud - CEA), the NMR laboratory of the Institute of Myology, the R3S (Respiration, Reanimation, Rehabilitation, Sleep) department of the APHP-SU, and the Radboudumc University Medical Centre in Holland.
+
+See related works below.

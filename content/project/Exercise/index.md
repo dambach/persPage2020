@@ -34,3 +34,5 @@ Muscle activation is one of the most important mechanisms for maintaining muscle
 We also conduct prospective studies to evaluate the muscular and extramuscular effects of increased daily physical activity and/or structured exercise programs (strength/endurance) in patients with neuromuscular pathologies.
 
  Current work is carried out in collaboration with the Department of Neuromyology and the Department of Internal Medicine of the APHP-SU.
+
+See related works below.
