@@ -12,9 +12,8 @@ authors:
 - Paulo Loureiro de Sousa
 - Yves Fromes
 - Pierre G. Carlier
-tags: [fibrosis]
 categories: []
-date: 11-01-2021
+date: '11-01-2021'
 lastmod: 2021-01-11T13:18:51+01:00
 featured: false
 draft: false
