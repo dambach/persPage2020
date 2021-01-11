@@ -36,6 +36,8 @@ slides: ""
 
 [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/toc.htm): an Open-Access Neuroscience Electronic Textbook with great interactive infographics.
 
+[Muscle contraction](https://ressources.univ-nantes.fr/tice/MOOC_STAPS/UGAContractionMusculaire2/): animated infographics of muscle contraction
+
 [Lectures in Respiratory Physiology](https://meded.ucsd.edu/ifp/jwest/resp_phys/) from UCSD school of medicine.
 
 [Latest research and reviews on Muscle from Nature.com](http://www.nature.com/subjects/muscle?WT.ac=search_subjects_muscle).
