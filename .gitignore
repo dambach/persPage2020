@@ -6,4 +6,6 @@
 public/
 .Rproj.user
 .Rhistory
+.config.toml
+
 
