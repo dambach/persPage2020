@@ -32,4 +32,4 @@ slides: ""
 
 How to assess neuromuscular function i.e. force, endurance, fatigability ? How neuromuscular function contributes to limit exercise performance in different population ? Does respiratory muscle fatigue occur, in which conditions, and does it explain symptoms or exercise capacity ? ...
 
-See related works below.
+See related works and publications below.

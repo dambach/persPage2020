@@ -35,4 +35,4 @@ We also conduct prospective studies to evaluate the muscular and extramuscular e
 
  Current work is carried out in collaboration with the Department of Neuromyology and the Department of Internal Medicine of the APHP-SU.
 
-See related works below.
+See related works and publications below.

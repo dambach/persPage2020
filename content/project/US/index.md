@@ -39,4 +39,4 @@ Within this topic, the RESPIMYO project focuses on the application of multiparam
 
 Current research is carried out in collaboration with the BIOMAPS laboratory (Université Paris-Sud - CEA), the NMR laboratory of the Institute of Myology, the R3S (Respiration, Reanimation, Rehabilitation, Sleep) department of the APHP-SU, and the Radboudumc University Medical Centre in Holland.
 
-See related works below.
+See related works and publications below.

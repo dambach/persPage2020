@@ -34,4 +34,4 @@ We evaluate the safety, feasibility, and short- and long-term efficacy of innova
 
 This project is carried out in collaboration with companies developing such devices and academic partners such as the Institut des Systèmes Intelligents et de Robotique - SU (ISIR).
 
-See related works below.
+See related works and publications below.
