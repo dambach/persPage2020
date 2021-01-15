@@ -1,9 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Muscle alterations in sporadic inclusion body myositis assessed using quantitative
-  nuclear magnetic resonance imaging and spectroscopy, ultrasound shear-wave elastography,
-  and relationships with muscle function
+title: Muscle alterations in sporadic inclusion body myositis assessed using quantitative nuclear magnetic resonance imaging and spectroscopy, ultrasound shear-wave elastography, and relationships with muscle function
 subtitle: ''
 summary: ''
 authors:
@@ -39,6 +37,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Neuromuscul Disord*'
-url: <Go to ISI>://WOS:000412961500098
 doi: 10.1016/j.nmd.2017.06.116
 ---

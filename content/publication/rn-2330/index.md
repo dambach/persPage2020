@@ -60,6 +60,6 @@ abstract: 'OBJECTIVES: To (i) evaluate the feasibility and the reliability of a 
   follow-up although further development of magnetic stimulation devices is needed
   to extend its applicability.'
 publication: '*Clin Neurophysiol*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/24001968
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/24001968
 doi: 10.1016/j.clinph.2013.08.001
 ---

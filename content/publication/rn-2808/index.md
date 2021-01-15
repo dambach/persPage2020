@@ -74,6 +74,6 @@ abstract: 'Background/Purpose: Wrist-worn accelerometers allow the objective est
   associated with consistent changes in PA, while other displayed heterogeneous changes
   in PA.'
 publication: '*2018 ACR/ARHP Annual Meeting*'
-url: https://acrabstracts.org/abstract/physical-activity-monitoring-using-wrist-worn-accelerometer-in-the-assessment-and-follow-up-of-patients-with-myositis/
+url_pdf: https://acrabstracts.org/abstract/physical-activity-monitoring-using-wrist-worn-accelerometer-in-the-assessment-and-follow-up-of-patients-with-myositis/
 doi: https://acrabstracts.org/abstract/physical-activity-monitoring-using-wrist-worn-accelerometer-in-the-assessment-and-follow-up-of-patients-with-myositis/
 ---

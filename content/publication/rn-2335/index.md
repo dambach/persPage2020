@@ -67,6 +67,6 @@ abstract: 'This study evaluated gait using lower-trunk accelerometry and investi
   the relevance of systematic gait analysis using lower-trunk accelerometry for patient
   follow-up and intervention planning.'
 publication: '*Neuromuscul Disord*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/27234310
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/27234310
 doi: 10.1016/j.nmd.2016.05.009
 ---

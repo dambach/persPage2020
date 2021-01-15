@@ -54,6 +54,6 @@ abstract: 'Neuromuscular function can change under different conditions such as 
   low/high-frequency paired pulses instead of tetanic stimuli and the use of magnetic
   stimulation at the peripheral level.'
 publication: '*Neuromuscul Disord*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/23182636
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/23182636
 doi: 10.1016/j.nmd.2012.10.007
 ---

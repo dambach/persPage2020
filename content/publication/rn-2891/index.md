@@ -65,6 +65,6 @@ abstract: BackgroundInclusion body myositis is the most frequent myositis in pat
   pilot study, we aimed to test the efficacy of sirolimus in patients with inclusion
   body myositis.
 publication: '*The Lancet Rheumatology*'
-url: https://doi.org/10.1016/S2665-9913(20)30280-0 https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30280-0/fulltext
+url_pdf: https://doi.org/10.1016/S2665-9913(20)30280-0 https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30280-0/fulltext
 doi: 10.1016/s2665-9913(20)30280-0
 ---

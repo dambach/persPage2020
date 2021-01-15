@@ -65,6 +65,6 @@ abstract: This study aimed to evaluate physical activity (PA) monitoring using w
   Only patients with major ACR/EULAR improvements at follow-up were associated with
   consistent changes in PA.
 publication: '*Neuromuscular Disorders*'
-url: http://www.sciencedirect.com/science/article/pii/S0960896619306388
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0960896619306388
 doi: https://doi.org/10.1016/j.nmd.2019.06.250
 ---

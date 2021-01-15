@@ -38,6 +38,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Rev Mal Respir*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/25391511
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/25391511
 doi: 10.1016/j.rmr.2013.10.645
 ---

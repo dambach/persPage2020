@@ -57,6 +57,6 @@ abstract: 'OBJECTIVE: Muscle strength is a critical clinical hallmark in both he
   dynamometers. These results support quantitative muscle strength assessment using
   fixed yet flexible dynamometry within clinical routine and multicenter trials.'
 publication: '*Physiol Meas*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/31935703
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/31935703
 doi: 10.1088/1361-6579/ab6b49
 ---

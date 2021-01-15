@@ -59,6 +59,6 @@ abstract: Degenerative muscle changes may be associated with changes in muscle m
   disordered muscle. Further investigations are required to clarify these findings
   and to refine their clinical value.
 publication: '*Ultrasound Med Biol*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/29706410
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/29706410
 doi: 10.1016/j.ultrasmedbio.2018.03.026
 ---

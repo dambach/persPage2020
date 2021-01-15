@@ -37,6 +37,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Neuromuscular Disorders*'
-url: https://doi.org/10.1016/j.nmd.2020.08.047
+url_pdf: https://doi.org/10.1016/j.nmd.2020.08.047
 doi: 10.1016/j.nmd.2020.08.047
 ---

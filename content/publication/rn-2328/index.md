@@ -54,6 +54,6 @@ abstract: Rotator cuff (RC) disease is an extremely common condition associated 
   we highlight the gaps in current knowledge and suggest research avenues for scientists
   and clinicians.
 publication: '*J Shoulder Elbow Surg*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/26189809
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/26189809
 doi: 10.1016/j.jse.2015.04.004
 ---

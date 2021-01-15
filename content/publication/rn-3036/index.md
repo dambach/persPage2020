@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Non-invasive assessment of skeletal muscle fibrosis in mice using nuclear magnetic resonance imaging and ultrasound shear wave elastography
+title: Non-invasive assessment of skeletal muscle fibrosis in mice using nuclear magnetic
+  resonance imaging and ultrasound shear wave elastography
 subtitle: ''
 summary: ''
 authors:
@@ -12,12 +13,13 @@ authors:
 - Paulo Loureiro de Sousa
 - Yves Fromes
 - Pierre G. Carlier
+tags: []
 categories: []
-date: '11-01-2021'
-lastmod: 2021-01-11T13:18:51+01:00
+date: '2021-01-11'
+lastmod: 2021-01-15T09:36:52+01:00
 featured: false
 draft: false
-projects: [US]
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -32,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-11T12:18:33.888545Z'
+publishDate: '2021-01-15T08:36:51.933109Z'
 publication_types:
 - '2'
 abstract: Fibrosis is a key pathological feature in muscle disorders, but its quantification

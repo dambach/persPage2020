@@ -73,6 +73,6 @@ abstract: "BACKGROUND: Diaphragm dysfunction is highly prevalent in mechanically
   \ generalize this method in tachypneic patients. TRIAL REGISTRATION: NCT03832231\
   \ ."
 publication: '*Crit Care*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/33246478
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/33246478
 doi: 10.1186/s13054-020-03338-y
 ---

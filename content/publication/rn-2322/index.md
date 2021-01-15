@@ -61,6 +61,6 @@ abstract: 'OBJECTIVE: To assess quadriceps strength and fatigability by using fe
   should be considered as an important factor underlying functional limitations in
   FMS patients.'
 publication: '*Arthritis Care Res (Hoboken)*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/22965792
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/22965792
 doi: 10.1002/acr.21845
 ---
