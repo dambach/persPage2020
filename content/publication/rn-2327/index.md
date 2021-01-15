@@ -58,6 +58,6 @@ abstract: Transcranial magnetic stimulation (TMS) of the motor cortex during vol
   results indicate a single TMS intensity assessing maximal voluntary activation and
   exercise-induced changes in corticomotoneuronal excitability/inhibition may be inappropriate.
 publication: '*Neuroscience*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/26642805
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/26642805
 doi: 10.1016/j.neuroscience.2015.11.056
 ---

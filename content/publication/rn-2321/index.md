@@ -52,6 +52,11 @@ abstract: This study introduces local pattern texture anisotropy as a novel para
   The TAI may be a promising addition to other texture-based approaches for quantitative
   muscle ultrasound imaging.
 publication: '*Ultrasound Med Biol*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/29428167
+<<<<<<< HEAD
+url_pdf: www.ncbi.nlm.nih.gov/pubmed/29428167
+=======
+=======
+>>>>>>> parent of 5f1a130... chg pub
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/29428167
 doi: 10.1016/j.ultrasmedbio.2017.12.017
 ---

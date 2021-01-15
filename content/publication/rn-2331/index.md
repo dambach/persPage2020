@@ -59,6 +59,6 @@ abstract: 'PURPOSE: The potential ergogenic effects of therapeutic inhaled salbu
   effect on neuromuscular fatigue. Further studies are needed to clarify the underlying
   mechanisms.'
 publication: '*Med Sci Sports Exerc*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/23559124
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/23559124
 doi: 10.1249/MSS.0b013e3182951d2d
 ---

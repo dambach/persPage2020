@@ -59,6 +59,6 @@ abstract: 'OBJECTIVES: Fibromyalgia (FM) is a chronic painful condition partly d
   autonomic adaptations nor sleep efficiency changed significantly. CONCLUSION: rTMS
   did not reduce pain in FM patients who followed the MT program.'
 publication: '*Arthritis Care Res (Hoboken)*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/31785190
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/31785190
 doi: 10.1002/acr.24118
 ---

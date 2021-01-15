@@ -59,6 +59,6 @@ abstract: Supersonic shear imaging (SSI) is a recently developed technique for n
   including the quantification of muscle degenerating processes (e.g. fibrosis, fatty
   infiltration) are required to clarify mechanisms underlying these findings.
 publication: '*Neuromuscular Disorders*'
-url: http://www.sciencedirect.com/science/article/pii/S0960896616303467
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0960896616303467
 doi: 10.1016/j.nmd.2016.06.053
 ---

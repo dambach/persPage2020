@@ -33,3 +33,5 @@ slides: ""
 We evaluate the safety, feasibility, and short- and long-term efficacy of innovative augmentation/compensation devices in patients with neuromuscular disorders. Motorized assistive devices, grouped under the term exoskeletons, have a strong potential for compensating for muscle weakness and improving mobility and independence, outside the framework of neurorehabilitation.
 
 This project is carried out in collaboration with companies developing such devices and academic partners such as the Institut des Systèmes Intelligents et de Robotique - SU (ISIR).
+
+See related works below.

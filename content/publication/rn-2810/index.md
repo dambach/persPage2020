@@ -40,6 +40,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Journal of Cachexia, Sarcopenia and Muscle*'
-url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240746/
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6240746/
 doi: 10.1002/jcsm.12365
 ---

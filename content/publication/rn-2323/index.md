@@ -64,6 +64,6 @@ abstract: Exercise intolerance in COPD seems to combine abnormal ventilatory mec
   that both respiratory and quadriceps fatigue should be considered to understand
   the complex interplay of factors leading to exercise intolerance in COPD patients.
 publication: '*PLoS One*'
-url: https://www.ncbi.nlm.nih.gov/pubmed/24324843
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/24324843
 doi: 10.1371/journal.pone.0083432
 ---
