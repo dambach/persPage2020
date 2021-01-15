@@ -37,16 +37,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Neuromuscul Disord*'
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 url_pdf: <Go to ISI>://WOS:000412961500098
->>>>>>> parent of 5f1a130... chg pub
-=======
->>>>>>> 67ac3c5cf460bdff428f1646b1ac8d6122d2f6bf
-=======
-url_pdf: <Go to ISI>://WOS:000412961500098
->>>>>>> parent of 5f1a130... chg pub
 doi: 10.1016/j.nmd.2017.06.116
 ---
