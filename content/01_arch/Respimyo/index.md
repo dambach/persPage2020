@@ -5,7 +5,6 @@ event_url: ""
 location: ""
 summary: "Presenting current research projects, including RESPIMYO (in French)"
 abstract: ""
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-02-01T13:00:00Z"
