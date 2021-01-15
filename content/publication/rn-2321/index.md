@@ -53,5 +53,7 @@ abstract: This study introduces local pattern texture anisotropy as a novel para
   muscle ultrasound imaging.
 publication: '*Ultrasound Med Biol*'
 url_pdf: www.ncbi.nlm.nih.gov/pubmed/29428167
+=======
+url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/29428167
 doi: 10.1016/j.ultrasmedbio.2017.12.017
 ---

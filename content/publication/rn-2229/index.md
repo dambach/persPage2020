@@ -8,7 +8,7 @@ authors:
 - D. Bachasson
 - H. Reyngoudt
 - S. Turk
-- O. Benveniste
+- .. Benveniste
 - J. Hogrel
 - P. Carlier
 tags: []
@@ -37,5 +37,9 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Neuromuscul Disord*'
+<<<<<<< HEAD
+=======
+url_pdf: <Go to ISI>://WOS:000412961500098
+>>>>>>> parent of 5f1a130... chg pub
 doi: 10.1016/j.nmd.2017.06.116
 ---
