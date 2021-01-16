@@ -33,6 +33,11 @@
   url = "#outreach"
   weight = 35
 
+[[main]]
+  name = "Twitter"
+  url = "#twitter"
+  weight = 40
+
 # [[main]]
 #   name = "Talks"
 #   url = "#talks"

@@ -37,7 +37,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.rtl.fr/actu/insolite/tout-ce-que-vous-ne-savez-pas-sur-vos-muscles-7797650279"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -57,4 +57,6 @@ projects: ""
 math: true
 ---
 
+{{< icon name="video" pack="fas" >}} [Video](https://www.youtube.com/watch?v=kIIqVTmYVck&t=758s)
 
+{{< icon name="headphones" pack="fas" >}} [Audio](https://www.rtl.fr/actu/insolite/tout-ce-que-vous-ne-savez-pas-sur-vos-muscles-7797650279)
