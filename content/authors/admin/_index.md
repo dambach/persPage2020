@@ -32,13 +32,13 @@ interests:
 education:
   courses:
   - course: Postdoctoral training in Muscle Physiology
-    institution: UCSD
+    institution: UCSD, California, USA
     year: 2015
   - course: PhD in Exercise Physiology
-    institution: Grenoble-Alpes University
+    institution: Grenoble-Alpes University, France
     year: 2012
   - course: MSc in Exercise Physiology
-    institution: Grenoble-Alpes University
+    institution: Grenoble-Alpes University, France
     year: 2009
   - course: Master in Physical Therapy
     institution: HEPLAV, Liège, Belgium
