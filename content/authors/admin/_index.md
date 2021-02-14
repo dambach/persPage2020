@@ -21,9 +21,9 @@ interests:
 - Skeletal muscle 
 - Diaphragm
 - Exercise physiology
-- Neuromuscular disorders
-- Muscle impairments
+- Neuromuscular disorders & secondary muscle impairments
 - Bioengineering
+- Ultrasound imaging
 - Neuromuscular fatigue
 - Rehabilitation 
 - Data science
