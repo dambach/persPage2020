@@ -97,3 +97,4 @@ I am a transdisciplinary scientist with a strong clinical background as a gradua
 {{< icon name="building" pack="fas" >}} See [experience]({{< ref "experience/index.md" >}}).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Damien_Bachasson_CV_EN.pdf" "newtab" >}}full CV{{< /staticref >}}.
+
