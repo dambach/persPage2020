@@ -18,7 +18,7 @@ bio: science, muscle, physiology, exercise, diaphragm, rehabilitation, bioengine
 
 # Interests to show in About widget
 interests:
-- Skeletal muscle 
+- Integrative muscle physiology
 - Diaphragm
 - Exercise physiology
 - Neuromuscular disorders
