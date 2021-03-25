@@ -4,6 +4,7 @@
 # Hugo
 /resources/
 public/
+
 .Rproj.user
 .Rhistory
 .config.toml
