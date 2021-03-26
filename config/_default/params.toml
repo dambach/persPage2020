@@ -94,7 +94,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Damien Bachasson, PT, PhD. Institut de Myologie, Hôpital Universitaire Pitié Salpêtrière, Bâtiment Babinski, 47-83 Boulevard de l’Hôpital", city = "Paris", postcode = "75013", country = "France", country_code = "FR"}
+address = {street = "Damien Bachasson, PT, PhD. Institut de Myologie, Hôpital Universitaire Pitié Salpêtrière, 47-83 Boulevard de l’Hôpital", city = "Paris", postcode = "75013", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

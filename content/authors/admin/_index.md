@@ -26,7 +26,7 @@ interests:
 - Bioengineering
 - Ultrasound imaging
 - Neuromuscular fatigue
-- Rehabilitation 
+- Rehabilitation sciences
 - Data science
 
 # Education to show in About widget
@@ -90,7 +90,7 @@ Feel free to contact me for more information regarding any of my interests.
 
 ## Short bio
 
-I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, exercise physiology, bioengineering, and rehabilitation sciences. Methodological and technological developments for the characterization of neuromuscular structure and function are an important part of my work. I have also interests in data science, reproducible research, and teaching. 
+I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, exercise physiology, bioengineering, and rehabilitation sciences. Methodological and technological developments for the characterization of muscle structure and function are an important part of my work. I have also interests in data science, reproducible research, and teaching. 
 
 {{< icon name="pen-fancy" pack="fas" >}} See [extended bio]({{< ref "extendedBio/index.md" >}}).
 
