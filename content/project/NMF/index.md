@@ -1,6 +1,6 @@
 ---
 title: Neuromuscular function
-summary: force, fatigue, endurance
+summary: Force, fatigue, endurance
 tags:
 - internal
 date: "2018-01-01T00:00:00Z"
@@ -30,6 +30,6 @@ url_video: ""
 slides: ""
 ---
 
-How to assess neuromuscular function i.e. force, endurance, fatigability ? How neuromuscular function contributes to limit exercise performance in different population ? Does respiratory muscle fatigue occur, in which conditions, and does it explain symptoms or exercise capacity ? ...
+How to assess neuromuscular function (i.e. force, endurance, fatigability) in respiratory and locomotor muscles ? How neuromuscular function contributes to limit exercise performance in different population ? Does respiratory muscle fatigue occur, in which conditions, and does it explain symptoms or exercise capacity ? ...
 
 See related works and publications below.
