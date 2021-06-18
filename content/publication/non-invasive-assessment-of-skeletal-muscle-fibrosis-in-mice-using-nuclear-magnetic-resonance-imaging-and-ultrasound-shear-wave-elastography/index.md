@@ -36,7 +36,7 @@ abstract: Fibrosis is a key pathological feature in muscle disorders, but its
   disentangling it from co-occurring pathological alterations in more complex
   scenarios, such as muscular dystrophies.
 draft: false
-featured: false
+featured: true
 projects:
   - MUS
 image:
