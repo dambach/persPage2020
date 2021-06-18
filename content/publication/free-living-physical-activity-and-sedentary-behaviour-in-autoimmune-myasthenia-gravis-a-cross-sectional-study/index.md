@@ -2,7 +2,7 @@
 title: "Free-Living Physical Activity and Sedentary Behaviour in Autoimmune
   Myasthenia Gravis: A Cross-Sectional Study"
 publication_types:
-  - "0"
+  - "2"
 doi: 10.3233/jnd-210637
 publication_short: J Neuromuscul Dis
 abstract: "BACKGROUND: Muscle weakness and fatigability, the prominent symptoms
