@@ -6,11 +6,11 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Damien Bachasson Research"
+title = "Damien Bachasson - website"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://damienbachasson.netlify.com/"
+baseurl = "https://damienbachasson.netlify.app/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -21,7 +21,7 @@ copyright = "&copy; `{year}` Damien Bachasson"
 ############################
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -66,7 +66,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     endLevel = 3
 
 [imaging]
-  resampleFilter = "box" # DB  lanczos
+  resampleFilter = "box" # DB originalement  lanczos
   quality = 75
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
