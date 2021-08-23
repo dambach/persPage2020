@@ -38,6 +38,7 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [filtering publications](./publication/).    
+Also see full [Pubmed records](https://pubmed.ncbi.nlm.nih.gov/?sort=date&size=100&term=Bachasson+D&cauthor_id=34043260), [ResearchGate](https://www.researchgate.net/profile/Damien-Bachasson), [Google Scholar](https://scholar.google.co.uk/citations?hl=en&pli=1&user=DNt--nsAAAAJ).
 {{% /callout %}}
 
