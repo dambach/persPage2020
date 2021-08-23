@@ -4,7 +4,7 @@ headless: false
 ---
 # Extended bio
 
-I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. I am now working at the cross-road between skeletal muscle physiology (in particular the diaphragm and locomotor muscles), exercise physiology, bioengineering, and rehabilitation sciences. main current research topics are: methodological and technological developments for the characterization of muscle structure and function (e.g. multiparametric ultrasound imaging, bioelectrical impedance), primary and secondary muscle impairments induced by chronic disorders (e.g. neuromuscular and respiratory disorders) or critical illness, exercise-based interventions and augmentation devices in neuromuscular disorders. 
+I am a transdisciplinary scientist with a strong clinical background as a graduate in physical therapy. My work is at the cross-road between skeletal muscle physiology (in particular the diaphragm and locomotor muscles), exercise physiology, bioengineering, and rehabilitation sciences. Main current projects are: methodological and technological developments for the characterization of muscle structure and function (e.g. multiparametric ultrasound imaging, bioelectrical impedance), primary and secondary muscle impairments induced by chronic disorders (e.g. neuromuscular and respiratory disorders) or critical illness, exercise-based interventions and augmentation devices in neuromuscular disorders. 
 
 ***
 
