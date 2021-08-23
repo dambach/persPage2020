@@ -23,6 +23,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=DNt--nsAAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Damien-Bachasson
   - icon: github
     icon_pack: fab
     link: https://github.com/dambach
