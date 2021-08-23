@@ -70,8 +70,8 @@ Feel free to contact me for more information regarding any of my interests.
 
 I am a transdisciplinary scientist with a strong clinical background from my initial training as a physical therapist. I am working at the cross-road between skeletal muscle (respiratory and locomotor) physiology, exercise physiology, bioengineering, and rehabilitation sciences. Methodological and technological developments for the characterization of muscle structure and function hold an important place in my work. I have also interests in data science, reproducible research, and teaching. 
 
-{{< icon name="pen-fancy" pack="fas" >}} See \[extended bio]({{< ref "extendedBio/index.md" >}}).
+{{< icon name="pen-fancy" pack="fas" >}} See [extended bio]({{< ref "extendedBio/index.md" >}}).
 
-{{< icon name="building" pack="fas" >}} See \[experience]({{< ref "experience/index.md" >}}).
+{{< icon name="building" pack="fas" >}} See [experience]({{< ref "experience/index.md" >}}).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Damien_Bachasson_CV_EN.pdf" "newtab" >}}full CV{{< /staticref >}}.
