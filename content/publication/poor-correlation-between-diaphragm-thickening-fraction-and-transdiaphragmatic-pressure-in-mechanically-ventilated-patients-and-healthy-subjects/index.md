@@ -12,7 +12,7 @@ authors:
   - Hogrel J-Y
   - Demoule A
   - Gennisson J-L
-  - and Dres M
+  - Dres M
 doi: 10.1097/aln.0000000000004042
 publication: Anesthesiology
 abstract: The relationship between the diaphragm thickening fraction and the
@@ -74,5 +74,5 @@ image:
   filename: fedmuxsxwaarqbp.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-11-18T11:04:14.941Z
+publishDate: '2021-11-18T11:04:14.941Z'
 ---
