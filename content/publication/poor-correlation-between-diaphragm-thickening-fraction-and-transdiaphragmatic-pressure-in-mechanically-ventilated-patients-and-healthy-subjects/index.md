@@ -68,8 +68,7 @@ abstract: The relationship between the diaphragm thickening fraction and the
   index.Ultrasound use to assess diaphragm function should be done with caution.
 draft: false
 featured: true
-projects:
-  - MUS
+projects: [US]
 image:
   filename: fedmuxsxwaarqbp.jpg
   focal_point: Smart
