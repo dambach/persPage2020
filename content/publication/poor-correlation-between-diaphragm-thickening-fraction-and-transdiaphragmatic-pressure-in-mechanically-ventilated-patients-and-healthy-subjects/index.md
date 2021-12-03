@@ -3,16 +3,16 @@ title: Poor Correlation between Diaphragm Thickening Fraction and
   Transdiaphragmatic Pressure in Mechanically Ventilated Patients and Healthy
   Subjects
 publication_types:
-  - "2"
+- '2'
 authors:
-  - Poulard T
-  - Bachasson D
-  - Fossé Q
-  - Niérat M-C
-  - Hogrel J-Y
-  - Demoule A
-  - Gennisson J-L
-  - Dres M
+- Poulard T
+- Bachasson D
+- Fossé Q
+- Niérat M-C
+- Hogrel J-Y
+- Demoule A
+- Gennisson J-L
+- Dres M
 doi: 10.1097/aln.0000000000004042
 publication: Anesthesiology
 abstract: The relationship between the diaphragm thickening fraction and the
@@ -74,4 +74,6 @@ image:
   focal_point: Smart
   preview_only: false
 publishDate: '2021-11-18T11:04:14.941Z'
+lastmod: 2020-18-00T19:00:26+01:00
+
 ---

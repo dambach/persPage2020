@@ -8,7 +8,7 @@ authors:
 - D. Bachasson
 - H. Reyngoudt
 - S. Turk
-- .. Benveniste
+- O. Benveniste
 - J. Hogrel
 - P. Carlier
 tags: []
