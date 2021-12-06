@@ -4,13 +4,13 @@ title: "Free-Living Physical Activity and Sedentary Behaviour in Autoimmune
 publication_types:
   - "2"
 authors:
-  - Birnbaum
+  - S. Birnbaum
   - S. Bachasson
   - D. Sharshar
   - T. Porcher
   - R. Hogrel
   - J. Y. Portero
-  - P.
+ 
 doi: 10.3233/jnd-210637
 publication_short: J Neuromuscul Dis
 abstract: "BACKGROUND: Muscle weakness and fatigability, the prominent symptoms

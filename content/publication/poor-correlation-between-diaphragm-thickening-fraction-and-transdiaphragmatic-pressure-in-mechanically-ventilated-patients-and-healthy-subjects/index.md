@@ -67,7 +67,7 @@ abstract: The relationship between the diaphragm thickening fraction and the
   were observed with transdiaphragmatic pressure and none with pressure-time
   index.Ultrasound use to assess diaphragm function should be done with caution.
 draft: false
-featured: true
+featured: false
 projects: [US]
 image:
   filename: fedmuxsxwaarqbp.jpg
