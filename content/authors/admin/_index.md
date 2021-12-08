@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:d.bachason@institut-myologie.org
+    link: mailto:d.bachasson@institut-myologie.org
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/bachassD
