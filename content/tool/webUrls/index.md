@@ -81,3 +81,5 @@ slides: ""
 [CONNECTED PAPERS](https://www.connectedpapers.com/): Explore connected papers in a visual graph.
 
 [EurekAlert](https://www.eurekalert.org/): Science News
+
+[Letter of Recommendation Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfKgzCe99ENRWeRHWcQHe_PO4PwJjJOCI0zgBVgSivSSQ_p3A/viewform): form for requesting recommendation letters
