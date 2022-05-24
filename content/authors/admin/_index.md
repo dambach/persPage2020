@@ -3,14 +3,12 @@ role: PT, PhD, Researcher
 bio: science, muscle, physiology, exercise, diaphragm, rehabilitation,
   bioengineering enthusiast.
 interests:
-  - Integrative muscle physiology
+  - Skeletal muscle, respiratory, and exercise physiology
   - Diaphragm
-  - Exercise physiology
   - Neuromuscular diseases
   - Secondary muscle impairments
   - Bioengineering
   - Ultrasound imaging
-  - Neuromuscular fatigue
   - Rehabilitation sciences
   - Data science
 social:
