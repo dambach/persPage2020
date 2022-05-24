@@ -16,4 +16,4 @@ During my PhD, I focused on ventilatory mechanics, hypoxia, and influence of res
 
 After my PhD, I pursued a postdoctoral training  at the  [Muscle Physiology Lab](http://muscle.ucsd.edu/) at UCSD where I focused on mechanisms underlying muscle changes induced by tendon failure with and without nerve injury. This stay was also a great opportunity to broaden my approach in sciences by working with animal models, human tissue, and wet-lab techniques for cellular and molecular analyses. 
 
-{{< figure src="nerve_histo.jpg" title="Merged image of immunofluorescence staining for laminin (red) and neurofilament (SMI31) in a suprascapular nerve" width=50% >}}
+{{< figure src="nerve_histo.jpg" title="Merged image of immunofluorescence staining for laminin (red) and neurofilament (SMI31) in a rat suprascapular nerve" width=50% >}}

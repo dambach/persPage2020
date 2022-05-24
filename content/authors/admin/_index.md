@@ -6,7 +6,7 @@ interests:
   - Integrative muscle physiology
   - Diaphragm
   - Exercise physiology
-  - Neuromuscular disorders
+  - Neuromuscular diseases
   - Secondary muscle impairments
   - Bioengineering
   - Ultrasound imaging
