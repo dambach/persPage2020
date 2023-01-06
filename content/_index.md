@@ -9,7 +9,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |-
-        Hello, I'm updating my website, I'll be back soon. In the meantime, find me on social networks and don't hesitate to contact me.
+      Bonjour, je suis en train de mettre à jour mon site web. Il sera bientôt de retour ! En attendant, retrouvez-moi sur les réseaux sociaux et n'hésitez pas à me contacter.
+      
+      Hello, I'm updating my website. It will be back soon ! In the meantime, find me on social networks and don't hesitate to contact me.
     design:
       background:
         color: black

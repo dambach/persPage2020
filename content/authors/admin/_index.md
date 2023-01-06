@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Damien Bachasson, PhD, HDR
+title: Damien Bachasson, PT, PhD
 # name_pronunciation: Wu En da
 
 # Is this the primary user of the site?
