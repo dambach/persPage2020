@@ -41,9 +41,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Damien-Bachasson
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/dambach
+  # - icon: github
+  #   icon_pack: fas
+  #   link: https://github.com/dambach
   # - icon: publons
   #   icon_pack: ai
   #   link: https://publons.com/researcher/3976256/damien-bachasson/
