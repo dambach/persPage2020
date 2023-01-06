@@ -4,9 +4,4 @@
 # Hugo
 /resources/
 public/
-
-.Rproj.user
-.Rhistory
-.config.toml
-
-
+assets/jsconfig.json
