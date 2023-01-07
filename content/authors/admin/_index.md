@@ -51,7 +51,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/damienbachasson/
 
-  
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   # - icon: file-pdf
