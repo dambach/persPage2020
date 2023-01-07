@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Damien Bachasson, PT, PhD
+title: Damien Bachasson
 # name_pronunciation: Wu En da
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 'CR Inserm (tenured researcher) | UMR-S 1158 (Inserm, Sorbonne University)'
+role: 'CR Inserm (tenured researcher) | UMR-S 1158 (Inserm, Sorbonne University), Experimental & clinical respiratory neurophysiology'
 
 # Status emoji
 # status:
@@ -42,7 +42,7 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Damien-Bachasson
   # - icon: github
-  #   icon_pack: fas
+  #   icon_pack: ai
   #   link: https://github.com/dambach
   # - icon: publons
   #   icon_pack: ai
